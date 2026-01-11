@@ -28,19 +28,19 @@ Aplikasi ini dibuat untuk memenuhi tugas **Pemrograman Web Lanjut**, dengan foku
 
 | Halaman Utama (Home) | Daftar Buku (Admin) |
 | :---: | :---: |
-| *(tari aja link ssnya di sini pli)* | *(Tempel Screenshot Buku)* |
+| ![img]() | ![img]() |
 
 | Edit data | Login Page |
 | :---: | :---: |
-| *(Tempel Screenshot edit data)* | *(Tempel Screenshot Login)* |
+| ![img]() | ![img]() |
 
 | tambah data | detail data |
 | :---: | :---: |
-| *(Tempel Screenshot edit data)* | *(Tempel Screenshot Login)* |
+| ![img]() | ![img]() |
 
 | database users | database buku |
 | :---: | :---: |
-| *(Tempel Screenshot users)* | *(Tempel Screenshot database buku)* |
+| ![img]() | ![img]() |
 
 ---
 
