@@ -32,15 +32,12 @@ Aplikasi ini dibuat untuk memenuhi tugas **Pemrograman Web Lanjut**, dengan foku
 
 | Edit data | Login Page |
 | :---: | :---: |
-| ![img]() | ![img]() |
+| ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0014.jpg) | ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0012.jpg) |
 
 | tambah data | detail data |
 | :---: | :---: |
-| ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0014.jpg) | ![img]() |
+| ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0014.jpg) | ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0016.jpg) |
 
-| database users | database buku |
-| :---: | :---: |
-| ![img]() | ![img]() |
 
 ---
 
