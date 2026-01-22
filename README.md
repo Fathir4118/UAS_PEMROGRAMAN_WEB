@@ -28,7 +28,7 @@ Aplikasi ini dibuat untuk memenuhi tugas **Pemrograman Web Lanjut**, dengan foku
 
 | Halaman Utama (Home) | Daftar Buku (Admin) |
 | :---: | :---: |
-| ![img]() | ![img]() |
+| ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0017.jpg) | ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0015.jpg) |
 
 | Edit data | Login Page |
 | :---: | :---: |
@@ -36,7 +36,7 @@ Aplikasi ini dibuat untuk memenuhi tugas **Pemrograman Web Lanjut**, dengan foku
 
 | tambah data | detail data |
 | :---: | :---: |
-| ![img]() | ![img]() |
+| ![img](https://github.com/Fathir4118/UAS_PEMROGRAMAN_WEB/blob/main/img/IMG-20260111-WA0014.jpg) | ![img]() |
 
 | database users | database buku |
 | :---: | :---: |
